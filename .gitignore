@@ -1,7 +1,11 @@
+resources/DataSujetos
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+*.lnk
+*.bat
 
 # C extensions
 *.so
@@ -127,3 +131,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# features
+/features
